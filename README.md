@@ -1,1 +1,1 @@
-# Udacity---Predictive-Analytics-for-Business-Nanodegree-Program
+# Udacity-Predictive-Analytics-for-Business-Nanodegree-Program
